@@ -2,3 +2,6 @@
 
 This module is coordinated by Yong Loo Lin School (Medicine), NUS
 
+
+study materials:
+  * spassau: http://spssau.com/
